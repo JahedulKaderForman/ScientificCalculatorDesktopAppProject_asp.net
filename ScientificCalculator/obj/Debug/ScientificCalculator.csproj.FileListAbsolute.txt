@@ -1,0 +1,10 @@
+C:\Users\Nadim\Desktop\Dot_net\DesktopApp\ScientificCalculator\ScientificCalculator\bin\Debug\ScientificCalculator.exe.config
+C:\Users\Nadim\Desktop\Dot_net\DesktopApp\ScientificCalculator\ScientificCalculator\bin\Debug\ScientificCalculator.exe
+C:\Users\Nadim\Desktop\Dot_net\DesktopApp\ScientificCalculator\ScientificCalculator\bin\Debug\ScientificCalculator.pdb
+C:\Users\Nadim\Desktop\Dot_net\DesktopApp\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.csprojAssemblyReference.cache
+C:\Users\Nadim\Desktop\Dot_net\DesktopApp\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.Form1.resources
+C:\Users\Nadim\Desktop\Dot_net\DesktopApp\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.Properties.Resources.resources
+C:\Users\Nadim\Desktop\Dot_net\DesktopApp\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.csproj.GenerateResource.cache
+C:\Users\Nadim\Desktop\Dot_net\DesktopApp\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Nadim\Desktop\Dot_net\DesktopApp\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.exe
+C:\Users\Nadim\Desktop\Dot_net\DesktopApp\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.pdb
